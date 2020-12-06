@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="AutoMapper\" />
+    <Folder Include="Implementation\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="ViewModels\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MarketPlace.Data.EF\MarketPlace.Data.EF.csproj" />
+    <ProjectReference Include="..\MarketPlace.Data\MarketPlace.Data.csproj" />
+    <ProjectReference Include="..\MarketPlace.Ultilities\MarketPlace.Ultilities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Configurations\" />
+    <Folder Include="Extentions\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MarketPlace.Data\MarketPlace.Data.csproj" />
+    <ProjectReference Include="..\MarketPlace.Infrastructure\MarketPlace.Infrastructure.csproj" />
+    <ProjectReference Include="..\MarketPlace.Ultilities\MarketPlace.Ultilities.csproj" />
+  </ItemGroup>
+
+</Project>
