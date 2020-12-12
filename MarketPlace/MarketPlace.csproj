@@ -21,4 +21,8 @@
     <ProjectReference Include="..\MarketPlace.Ultilities\MarketPlace.Ultilities.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\Admin\" />
+  </ItemGroup>
+
 </Project>
