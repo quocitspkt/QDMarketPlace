@@ -1,18 +1,15 @@
 ﻿using MarketPlace.Data.Enums;
-using MarketPlace.Data.Interfaces;
-using MarketPlace.Infrastructure.SharedKernel;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
-namespace MarketPlace.Data.Entities
+namespace MarketPlace.Application.ViewModels.Product
 {
-    [Table("Products")]
-    public class Product : DomainEntity<int>, IDateTracking, IHasOwner, IHasSeoMetaData, IHasSoftDelete, ISortable, ISwitchable
+    public class ProductViewModel
     {
+        public int Id { get; set; }
         [Required]
         [StringLength(128)]
         
@@ -20,7 +17,7 @@ namespace MarketPlace.Data.Entities
 
         [Required]
         public int CategoryId { get; set; }
-        
+
         [StringLength(250)]
         
         public string Description { get; set; }
@@ -79,13 +76,10 @@ namespace MarketPlace.Data.Entities
 
         public int SortOrder { get; set; }
 
-        
+
         public Status Status { get; set; }
 
         public int OwnerId { get; set; }
-
-        [ForeignKey("CategoryId")]
-        public virtual ProductCategory ProductCategory { get; set; }
-        
+        public ProductCategoryViewModel ProductCategory { get; set; }
     }
 }

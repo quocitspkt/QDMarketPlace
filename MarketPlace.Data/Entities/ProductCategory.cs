@@ -12,30 +12,46 @@ namespace MarketPlace.Data.Entities
     [Table("ProductCategories")]
     public class ProductCategory : DomainEntity<int>, IHasSeoMetaData, ISwitchable, IDateTracking,ISortable
     {
+        public ProductCategory()
+        {
+            Products = new List<Product>();
+        }
+        public ProductCategory(string name, string description, int? parentId, int? homeOrder, bool? homeFlag, string seoPageTitle, string seoAlias,string seoKeyWord,
+            string seoDescription,Status status, DateTime dateCreated,DateTime dateModified,int sortOrder)
+        {
+            Name = name;
+            Description = description;
+            ParentId = parentId;
+            HomeOrder = homeOrder;
+            HomeFlag = homeFlag;
+            SeoPageTitle = seoPageTitle;
+            SeoAlias = seoAlias;
+            SeoKeyWord = seoKeyWord;
+            SeoDescription = seoDescription;
+            Status = status;
+            DateCreated = dateCreated;
+            DateModified = dateModified;
+            SortOrder = sortOrder;
+
+        }    
         
-        [Required] 
-        [Column(TypeName="nvarchar")]
-        [StringLength(128)]
         public string Name { get; set; }
+        public string Description { get; set; }
 
         public int? ParentId { get; set; }
+        public int? HomeOrder { get; set; }
+        public bool? HomeFlag { get; set; }
 
-        [Required]
-        [Column(TypeName = "nvarchar")]
-        [StringLength(128)]
+        
         public string SeoPageTitle { set; get; }
 
-        [Required]
-        [Column(TypeName = "varchar")]
-        [StringLength(128)]
+        
         public string SeoAlias { set; get; }
         
-        [Column(TypeName = "nvarchar")]
-        [StringLength(158)]
+        
         public string SeoKeyWord { set; get; }
 
-        [Column(TypeName = "nvarchar")]
-        [StringLength(158)]
+        
         public string SeoDescription { set; get; }
 
         public Status Status { set; get; }
@@ -45,5 +61,7 @@ namespace MarketPlace.Data.Entities
         public DateTime DateModified { set; get; }
 
         public int SortOrder { set; get; }
+
+        public virtual ICollection<Product> Products { set; get; }
     }
 }
