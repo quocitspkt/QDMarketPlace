@@ -1,0 +1,217 @@
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.StaticWebAssets.xml
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.exe
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.deps.json
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.runtimeconfig.json
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.runtimeconfig.dev.json
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Views.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Views.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.csprojAssemblyReference.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.AssemblyInfoInputs.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.AssemblyInfo.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.csproj.CoreCompileInputs.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.MvcApplicationPartsAssemblyInfo.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.MvcApplicationPartsAssemblyInfo.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.RazorAssemblyInfo.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.RazorAssemblyInfo.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\staticwebassets\MarketPlace.StaticWebAssets.Manifest.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\staticwebassets\MarketPlace.StaticWebAssets.xml
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\scopedcss\bundle\MarketPlace.styles.css
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.TagHelpers.input.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.TagHelpers.output.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.RazorCoreGenerate.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.RazorTargetAssemblyInfo.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.RazorTargetAssemblyInfo.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.Views.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.csproj.CopyComplete
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.genruntimeconfig.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Application.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Data.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Data.EF.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Infrastructure.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Ultilities.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Application.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Data.EF.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Data.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Infrastructure.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Ultilities.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.StaticWebAssets.xml
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.exe
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.deps.json
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.runtimeconfig.json
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.runtimeconfig.dev.json
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Views.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Views.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Application.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Data.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Data.EF.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Infrastructure.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Ultilities.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Application.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Data.EF.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Data.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Infrastructure.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\MarketPlace.Ultilities.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.csprojAssemblyReference.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.AssemblyInfoInputs.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.AssemblyInfo.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.csproj.CoreCompileInputs.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.MvcApplicationPartsAssemblyInfo.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.MvcApplicationPartsAssemblyInfo.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.RazorAssemblyInfo.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.RazorAssemblyInfo.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\staticwebassets\MarketPlace.StaticWebAssets.Manifest.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\staticwebassets\MarketPlace.StaticWebAssets.xml
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\scopedcss\bundle\MarketPlace.styles.css
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.TagHelpers.input.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.TagHelpers.output.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.RazorCoreGenerate.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.RazorTargetAssemblyInfo.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.RazorTargetAssemblyInfo.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.Views.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.csproj.CopyComplete
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\MarketPlace.genruntimeconfig.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
