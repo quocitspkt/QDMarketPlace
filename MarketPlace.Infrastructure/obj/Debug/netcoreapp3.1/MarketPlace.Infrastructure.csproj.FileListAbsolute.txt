@@ -1,0 +1,17 @@
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Infrastructure\bin\Debug\netcoreapp3.1\MarketPlace.Infrastructure.deps.json
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Infrastructure\bin\Debug\netcoreapp3.1\MarketPlace.Infrastructure.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Infrastructure\bin\Debug\netcoreapp3.1\MarketPlace.Infrastructure.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Infrastructure\obj\Debug\netcoreapp3.1\MarketPlace.Infrastructure.csprojAssemblyReference.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Infrastructure\obj\Debug\netcoreapp3.1\MarketPlace.Infrastructure.AssemblyInfoInputs.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Infrastructure\obj\Debug\netcoreapp3.1\MarketPlace.Infrastructure.AssemblyInfo.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Infrastructure\obj\Debug\netcoreapp3.1\MarketPlace.Infrastructure.csproj.CoreCompileInputs.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Infrastructure\obj\Debug\netcoreapp3.1\MarketPlace.Infrastructure.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Infrastructure\obj\Debug\netcoreapp3.1\MarketPlace.Infrastructure.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Infrastructure\bin\Debug\netcoreapp3.1\MarketPlace.Infrastructure.deps.json
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Infrastructure\bin\Debug\netcoreapp3.1\MarketPlace.Infrastructure.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Infrastructure\bin\Debug\netcoreapp3.1\MarketPlace.Infrastructure.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Infrastructure\obj\Debug\netcoreapp3.1\MarketPlace.Infrastructure.AssemblyInfoInputs.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Infrastructure\obj\Debug\netcoreapp3.1\MarketPlace.Infrastructure.AssemblyInfo.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Infrastructure\obj\Debug\netcoreapp3.1\MarketPlace.Infrastructure.csproj.CoreCompileInputs.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Infrastructure\obj\Debug\netcoreapp3.1\MarketPlace.Infrastructure.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Infrastructure\obj\Debug\netcoreapp3.1\MarketPlace.Infrastructure.pdb
