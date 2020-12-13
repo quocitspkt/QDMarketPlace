@@ -1,4 +1,12 @@
+using AutoMapper;
+using MarketPlace.Application.AutoMapper;
+using MarketPlace.Application.Implementation;
+using MarketPlace.Application.Interfaces;
 using MarketPlace.Data;
+using MarketPlace.Data.EF;
+using MarketPlace.Data.EF.Repositories;
+using MarketPlace.Data.Entities;
+using MarketPlace.Data.IRepositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -27,17 +35,34 @@ namespace MarketPlace
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<ApplicationDbContext>(options =>
+            services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(
-                    Configuration.GetConnectionString("DefaultConnection")));
-            services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                .AddEntityFrameworkStores<ApplicationDbContext>();
+                    Configuration.GetConnectionString("DefaultConnection"),
+                    o=>o.MigrationsAssembly("MarketPlace.Data.EF")));
+
+            //services.AddDefaultIdentity<CusUser>(options => options.SignIn.RequireConfirmedAccount = true)
+            //.AddEntityFrameworkStores<AppDbContext>();
+            services.AddIdentity<CusUser, CusUserRole>()
+            .AddEntityFrameworkStores<AppDbContext>()
+            .AddDefaultTokenProviders();
+            //services.AddDefaultIdentity<CusUserRole>(options => options.SignIn.RequireConfirmedAccount = true)
+            //.AddEntityFrameworkStores<AppDbContext>();
+            services.AddScoped<UserManager<CusUser>, UserManager<CusUser>>();
+            services.AddScoped<RoleManager<CusUserRole>, RoleManager<CusUserRole>>();
+
+            services.AddAutoMapper(typeof(DomainToViewModelMappingProfile));
+            //services.AddSingleton(Mapper.Configuration);
+
+            services.AddScoped<IMapper>(sp => new Mapper(sp.GetRequiredService<AutoMapper.IConfigurationProvider>(), sp.GetService));
             services.AddControllersWithViews();
+            services.AddTransient<DbInitializer>();
+            services.AddTransient<IProductCategoryRepository,ProductCategoryRepository>();
+            services.AddTransient<IProductCategoryService,ProductCategoryService>();
             services.AddRazorPages();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env,DbInitializer dbInitializer)
         {
             if (env.IsDevelopment())
             {
@@ -70,6 +95,7 @@ namespace MarketPlace
 
                 endpoints.MapRazorPages();
             });
+            dbInitializer.Seed().Wait();
         }
     }
 }

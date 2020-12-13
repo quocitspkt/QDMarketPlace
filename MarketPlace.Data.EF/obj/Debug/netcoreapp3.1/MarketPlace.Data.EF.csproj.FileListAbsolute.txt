@@ -1,0 +1,35 @@
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Data.EF.deps.json
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Data.EF.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Data.EF.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Data.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Infrastructure.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Ultilities.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Data.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Infrastructure.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Ultilities.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Data.EF\obj\Debug\netcoreapp3.1\MarketPlace.Data.EF.csprojAssemblyReference.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Data.EF\obj\Debug\netcoreapp3.1\MarketPlace.Data.EF.AssemblyInfoInputs.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Data.EF\obj\Debug\netcoreapp3.1\MarketPlace.Data.EF.AssemblyInfo.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Data.EF\obj\Debug\netcoreapp3.1\MarketPlace.Data.EF.csproj.CoreCompileInputs.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Data.EF\obj\Debug\netcoreapp3.1\MarketPlace.Data.EF.csproj.CopyComplete
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Data.EF\obj\Debug\netcoreapp3.1\MarketPlace.Data.EF.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace\MarketPlace\MarketPlace.Data.EF\obj\Debug\netcoreapp3.1\MarketPlace.Data.EF.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Data.EF.deps.json
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Data.EF.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Data.EF.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Data.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Infrastructure.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Ultilities.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Data.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Infrastructure.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Ultilities.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\obj\Debug\netcoreapp3.1\MarketPlace.Data.EF.csprojAssemblyReference.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\obj\Debug\netcoreapp3.1\MarketPlace.Data.EF.AssemblyInfoInputs.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\obj\Debug\netcoreapp3.1\MarketPlace.Data.EF.AssemblyInfo.cs
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\obj\Debug\netcoreapp3.1\MarketPlace.Data.EF.csproj.CoreCompileInputs.cache
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\obj\Debug\netcoreapp3.1\MarketPlace.Data.EF.csproj.CopyComplete
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\obj\Debug\netcoreapp3.1\MarketPlace.Data.EF.dll
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\obj\Debug\netcoreapp3.1\MarketPlace.Data.EF.pdb
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Data.EF.runtimeconfig.json
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\bin\Debug\netcoreapp3.1\MarketPlace.Data.EF.runtimeconfig.dev.json
+D:\HK_I_2020\Tieu luan chuyen nganh\project\MarketPlace 2\MarketPlace.Data.EF\obj\Debug\netcoreapp3.1\MarketPlace.Data.EF.genruntimeconfig.cache
